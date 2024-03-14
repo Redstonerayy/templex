@@ -16,7 +16,7 @@
 		"markdown-it": "^14.0.0",
 		"markdown-it-link-attributes": "^4.0.1",
 		"nunjucks": "^3.2.4",
-		"sass": "^1.71.1",
+		"sass": "^1.72.0",
 		"serve-handler": "^6.1.5",
 		"yaml": "^2.4.0"
 	},
